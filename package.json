@@ -1,10 +1,10 @@
 {
-  "publisher": "leung",
-  "name": "theme-vitesse",
-  "displayName": "Vitesse Theme",
-  "version": "0.1.0",
+  "publisher": "4191",
+  "name": "theme-4191",
+  "displayName": "4191 Theme",
+  "version": "0.1.1",
   "packageManager": "pnpm@8.11.0",
-  "description": "Vitesse theme for VS Code",
+  "description": "vscode theme for 4191",
   "license": "MIT",
   "repository": {
     "type": "git",
