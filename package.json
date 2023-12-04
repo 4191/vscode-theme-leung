@@ -1,8 +1,8 @@
 {
-  "publisher": "antfu",
+  "publisher": "leung",
   "name": "theme-vitesse",
   "displayName": "Vitesse Theme",
-  "version": "0.8.0-beta.0",
+  "version": "0.0.1",
   "packageManager": "pnpm@8.11.0",
   "description": "Vitesse theme for VS Code",
   "license": "MIT",
