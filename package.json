@@ -2,7 +2,7 @@
   "publisher": "4191",
   "name": "theme-4191",
   "displayName": "4191 Theme",
-  "version": "0.1.1",
+  "version": "0.0.1",
   "packageManager": "pnpm@8.11.0",
   "description": "vscode theme for 4191",
   "license": "MIT",
