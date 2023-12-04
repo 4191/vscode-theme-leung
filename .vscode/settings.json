@@ -37,5 +37,9 @@
     "json",
     "jsonc",
     "yaml"
-  ]
+  ],
+  "workbench.colorCustomizations": {
+    "editor.selectionBackground": "#0055aaaa"
+    // "editor.selectionBackground": "#0055aaaa"
+  }
 }
