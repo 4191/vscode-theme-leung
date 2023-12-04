@@ -25,8 +25,8 @@ export const VitesseThemes = {
 
   background: ['#121212', '#ffffff'],
   activeBackground: ['#181818', '#f7f7f7'],
-  selectionBackground: ['#eeeeee15', '#22222215'],
-  selectionBackgroundActive: ['#eeeeee15', '#22222215'],
+  selectionBackground: ['#0055aaaa', '#22222215'],
+  selectionBackgroundActive: ['#0055aaaa', '#22222215'],
   selectionBackgroundInActive: ['#eeeeee08', '#22222208'],
 
   // soft overrides
